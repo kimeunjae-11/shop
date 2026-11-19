@@ -2,7 +2,7 @@
 
 빈티지 의류 쇼핑몰 (수업 과제용 데모)
 
-- 사이트: https://kimeunjae-11.github.io/hswb-week12/
+- 사이트: https://kimeunjae-11.github.io/shop/
 - `index.html` 한 파일에 HTML · CSS · JS 포함, 이미지는 `img/` 폴더 (상대 경로)
 
 ## 기능
